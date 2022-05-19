@@ -1,5 +1,5 @@
 # TIL_SELF_STUDY
-recording what I learned for that day
+Recording what I learned for that day
 # Day 09
 
 keywords : `메소드 overload`  `접근제한자`  `상속`   `super(); `  `this();`  `static`  `싱글톤 패턴` `final`  `static final`
