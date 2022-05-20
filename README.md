@@ -305,7 +305,7 @@ public class Singleton {
   * 따라서 `final class A`가 되면 A는 부모 클래스로 삼을 수 없다
   * `final int a1  `를 선언한다면 
     	1. 생성과 동시에 초기값을 줘야하거나
-    	1.  생성자에서 초기화를 함
+    	2.  생성자에서 초기화를 함
 
   ```java
   public class A {
